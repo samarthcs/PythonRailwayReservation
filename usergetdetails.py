@@ -18,7 +18,7 @@ def userint():
             file.write(name1.encode())
             file.write(age.encode())
             file.write(gen.encode())
-            ans=input("Add none")
+            ans=input("Add more")
 
     
     ##def userinf():
