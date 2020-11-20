@@ -2,7 +2,7 @@ def tripint():
 ##    sizeofrec=20
 ##    with open("C:\\datafile\\cba.dat",'wb') as file:
         print("Available Destinations")
-        print("1 for Delhi to Amritsar")
+        print("1 for Haridwar to Amritsar")
         print("2 for Delhi to Bengaluru")
         print("3 for Jammu to Lucknow")
         print("4 for Jaipur to Alwar")
